@@ -1,2 +1,2 @@
 # DiceRollerApp
-A follow along app from Google's Android Developer Path
+Roll a dice, update results with each new roll 
